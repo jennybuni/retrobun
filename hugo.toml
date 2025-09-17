@@ -1,6 +1,6 @@
-baseURL = "https://<your-username>.github.io/retroblog/"
+baseURL = "https://jennybuni.github.io/retroblog/"
 languageCode = "en-us"
-title = "Retro Cart Detective"
+title = "Retrobun Collection"
 theme = "re-terminal"
 enableGitInfo = true
 
@@ -9,7 +9,7 @@ enableGitInfo = true
 
 [params]
   contentTypeName = "posts"
-  themeColor = "orange"        # choose: orange, blue, red, green, pink, paper
+  themeColor = "pink"        # choose: orange, blue, red, green, pink, paper
   showMenuItems = 3
   fullWidthTheme = false
   centerTheme = false
@@ -18,14 +18,13 @@ enableGitInfo = true
 
   [params.banner]
     dismissible = false
-    text = "Welcome to Retro Cart Detective — learn how to spot fakes, preserve classics!"
     url = "/about"
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Retro Cart Detective"
-    subtitle = "Spot the Real, Play the Retro"
+    title = "Retrobun collection"
+    subtitle = "Search and spot the Real, Play the Retro"
     owner = "Jenny"
     keywords = ["retro", "gaming", "fake", "collecting", "guides"]
     copyright = "© 2025 Jenny"
@@ -38,7 +37,7 @@ enableGitInfo = true
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Retro Cart Detective"
+      logoText = "Retrobun Collection"
       logoHomeLink = "/"
 
     [[languages.en.menu.main]]

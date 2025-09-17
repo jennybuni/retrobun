@@ -4,14 +4,11 @@ date: 2025-09-17
 tags: ["fake-check","NES","collecting"]
 categories: ["Guides"]
 draft: false
-cover:
-  image: "/images/nes/fake-vs-real.jpg"
-  alt: "Real vs fake NES label close-up"
-  caption: "Label stock & print dots are the giveaway."
+cover: "fake-vs-real.jpg"
 ---
-
 Retro collecting is fun — but the market is full of counterfeit carts.  
 Here are the top things to watch for when buying NES games:
+![test image](fake-vs-real.jpg)
 
 ## Quick tells
 - **Label stock**: real carts use glossy, high-quality stock. Counterfeits look flat.
@@ -19,4 +16,4 @@ Here are the top things to watch for when buying NES games:
 - **Screws**: official carts use security bits, not plain Phillips.
 - **PCB window**: some fakes show the wrong board color or missing chips.
 
-> Tip: if in doubt, always open the cart and check the board!
+![Real vs fake NES label close-up](fake-vs-real.jpg "Label stock & print dots are the giveaway.")

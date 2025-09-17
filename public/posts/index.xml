@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Retrobun collection</title>
+    <link>http://localhost:1313/retroblog/posts/</link>
+    <description>Recent content in Posts on Retrobun collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Jenny</copyright>
+    <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/retroblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Spot Fake NES Carts</title>
+      <link>http://localhost:1313/retroblog/posts/spotting-fake-nes-carts/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/retroblog/posts/spotting-fake-nes-carts/</guid>
+      <description>&lt;p&gt;Retro collecting is fun — but the market is full of counterfeit carts.&lt;br&gt;
+Here are the top things to watch for when buying NES games:
+&lt;img src=&#34;http://localhost:1313/retroblog/posts/spotting-fake-nes-carts/fake-vs-real.jpg&#34; alt=&#34;test image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;quick-tells&#34;&gt;Quick tells&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Label stock&lt;/strong&gt;: real carts use glossy, high-quality stock. Counterfeits look flat.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Print dots&lt;/strong&gt;: zoom in and you’ll see inkjet-style dots on fakes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Screws&lt;/strong&gt;: official carts use security bits, not plain Phillips.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PCB window&lt;/strong&gt;: some fakes show the wrong board color or missing chips.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/retroblog/posts/spotting-fake-nes-carts/fake-vs-real.jpg&#34; alt=&#34;Real vs fake NES label close-up&#34; title=&#34;Label stock &amp;amp; print dots are the giveaway.&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;Retro collecting is fun — but the market is full of counterfeit carts.&lt;br&gt;
+Here are the top things to watch for when buying NES games:
+&lt;img src=&#34;http://localhost:1313/retroblog/posts/spotting-fake-nes-carts/fake-vs-real.jpg&#34; alt=&#34;test image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;quick-tells&#34;&gt;Quick tells&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Label stock&lt;/strong&gt;: real carts use glossy, high-quality stock. Counterfeits look flat.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Print dots&lt;/strong&gt;: zoom in and you’ll see inkjet-style dots on fakes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Screws&lt;/strong&gt;: official carts use security bits, not plain Phillips.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PCB window&lt;/strong&gt;: some fakes show the wrong board color or missing chips.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/retroblog/posts/spotting-fake-nes-carts/fake-vs-real.jpg&#34; alt=&#34;Real vs fake NES label close-up&#34; title=&#34;Label stock &amp;amp; print dots are the giveaway.&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
