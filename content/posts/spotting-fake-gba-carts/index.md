@@ -13,6 +13,7 @@ Here are the top things to watch for when buying GBA games:
 ## Quick tells
 - **Label stock**: real carts use glossy, high-quality stock. Counterfeits look flat.
 - **Print dots**: zoom in and you’ll see inkjet-style dots on fakes.
+- although some of the newer carts they have got better at the printing
 - **Screws**: official carts use security bits, not plain Phillips.
 - **PCB window**: some fakes show the wrong board color, no battery or missing chips.
 
