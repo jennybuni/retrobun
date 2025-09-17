@@ -1,10 +1,8 @@
-name: Deploy Hugo site to Pages
+name: Deploy Hugo site to GitHub Pages (Production)
 
 on:
   push:
-    branches:
-      - main
-      - staging
+    branches: [ "main" ]
   workflow_dispatch:
 
 permissions:
@@ -32,15 +30,8 @@ jobs:
           hugo-version: '0.150.0'
           extended: true
 
-      - name: Build site
-        run: |
-          if [ "${GITHUB_REF##*/}" = "staging" ]; then
-            echo "Building STAGING site (with drafts)..."
-            hugo -D --baseURL "https://jennybuni.github.io/retrobun-staging/"
-          else
-            echo "Building PRODUCTION site..."
-            hugo --minify --baseURL "https://jennybuni.github.io/retrobun/"
-          fi
+      - name: Build production site
+        run: hugo --minify --baseURL "https://jennybuni.github.io/retrobun/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
