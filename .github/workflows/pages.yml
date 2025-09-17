@@ -1,7 +1,10 @@
 name: Deploy Hugo site to Pages
+
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
+      - staging
   workflow_dispatch:
 
 permissions:
@@ -17,19 +20,33 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
-      - uses: peaceiris/actions-hugo@v3
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.150.0'
           extended: true
-      - name: Build
-        run: hugo --minify
-      - uses: actions/upload-pages-artifact@v3
+
+      - name: Build site
+        run: |
+          if [ "${GITHUB_REF##*/}" = "staging" ]; then
+            echo "Building STAGING site (with drafts)..."
+            hugo -D --baseURL "https://jennybuni.github.io/retrobun-staging/"
+          else
+            echo "Building PRODUCTION site..."
+            hugo --minify --baseURL "https://jennybuni.github.io/retrobun/"
+          fi
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
