@@ -17,6 +17,20 @@
       <description></description>
     </item>
     <item>
+      <title>Ds</title>
+      <link>http://localhost:1313/retrobun/tags/ds/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retrobun/tags/ds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heartgold</title>
+      <link>http://localhost:1313/retrobun/tags/heartgold/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retrobun/tags/heartgold/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Pokemon</title>
       <link>http://localhost:1313/retrobun/tags/pokemon/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
@@ -24,24 +38,17 @@
       <description></description>
     </item>
     <item>
-      <title>Fake-Check</title>
-      <link>http://localhost:1313/retrobun/tags/fake-check/</link>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/tags/fake-check/</guid>
+      <title>Pokewalker</title>
+      <link>http://localhost:1313/retrobun/tags/pokewalker/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retrobun/tags/pokewalker/</guid>
       <description></description>
     </item>
     <item>
-      <title>GBA</title>
-      <link>http://localhost:1313/retrobun/tags/gba/</link>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/tags/gba/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Systems</title>
-      <link>http://localhost:1313/retrobun/tags/systems/</link>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/tags/systems/</guid>
+      <title>Soulsilver</title>
+      <link>http://localhost:1313/retrobun/tags/soulsilver/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retrobun/tags/soulsilver/</guid>
       <description></description>
     </item>
   </channel>

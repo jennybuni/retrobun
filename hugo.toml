@@ -48,11 +48,11 @@ enableGitInfo = false
       url = "/about/"
 
     [[languages.en.menu.main]]
-      identifier = "guides"
-      name = "Guides"
-      url = "/tags/fake-check/"
+      identifier = "pokemon"
+      name = "Pokemon"
+      url = "/tags/pokemon/"
 
     [[languages.en.menu.main]]
-      identifier = "systems"
-      name = "Systems"
-      url = "/tags/systems/"
+      identifier = "collecting"
+      name = "Collecting"
+      url = "/tags/collecting/"
