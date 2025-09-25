@@ -1,7 +1,7 @@
 ---
 title: "Retrobun Collection"
 description: "Guides, tips, and resources for retro game collectors — from spotting fakes to preserving classics."
-cover: "logo.webp" # optional if you want a header image
+cover: "logo.jpg" # optional if you want a header image
 ---
 
 Welcome to **Retrobun Collection**, 
