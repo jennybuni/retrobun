@@ -37,5 +37,12 @@
       <guid>http://localhost:1313/retrobun/tags/gba/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Systems</title>
+      <link>http://localhost:1313/retrobun/tags/systems/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retrobun/tags/systems/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

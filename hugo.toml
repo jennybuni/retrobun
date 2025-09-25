@@ -54,4 +54,4 @@ enableGitInfo = false
     [[languages.en.menu.main]]
       identifier = "systems"
       name = "Systems"
-      url = "/tags/nes/"
+      url = "/tags/systems/"
