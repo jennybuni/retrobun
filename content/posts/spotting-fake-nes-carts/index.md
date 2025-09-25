@@ -1,14 +1,13 @@
 ---
-title: "How to Spot Fake NES Carts"
+title: "How to Spot Fake GBA Carts"
 date: 2025-09-17
-tags: ["fake-check","NES","collecting"]
+tags: ["fake-check","GBA","collecting"]
 categories: ["Guides"]
 draft: false
 cover: "fake-vs-real.jpg"
 ---
 Retro collecting is fun — but the market is full of counterfeit carts.  
-Here are the top things to watch for when buying NES games:
-![test image](fake-vs-real.jpg)
+Here are the top things to watch for when buying GBA games:
 
 ## Quick tells
 - **Label stock**: real carts use glossy, high-quality stock. Counterfeits look flat.
