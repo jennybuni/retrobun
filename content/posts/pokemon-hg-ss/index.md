@@ -31,7 +31,7 @@ If you’re itching to add *HeartGold* or *SoulSilver* to your shelf, here’s s
 - **Check Authenticity**: Flip the DS cart over and look for the tiny imprinted code. Genuine DS games have a slightly raised, etched number above the connectors. Repro (reproduction) carts often miss this detail or feel lighter in hand. The other thing you can check is if you can see through the cartridge when held up to light.   
 ![Real DS cartridge](counterfitcheck.webp "If you can see through the cartridge its genuine")
 
-- **Where to Hunt**: eBay and PriceCharting are obvious choices, but don’t sleep on local retro shops, charity shops, or even Facebook Marketplace. Sometimes you’ll stumble across a parent selling their kid’s old DS stash for cheap.  
+- **Where to Hunt**: eBay and PriceCharting are obvious choices, but don’t sleep on local retro shops, car boot sales, or even Facebook Marketplace. Sometimes you’ll stumble across a parent selling their kid’s old DS stash for cheap.  
 - **Pokéwalker Caution**: If you’re buying a Pokéwalker, confirm the battery compartment isn’t corroded. And make sure it comes with the back covers it’s surprisingly hard to find those separately.  
 
 - **Play vs. Display**: Decide early if you want a copy to play or one to keep pristine. It’s totally fine to have a “player cart” and a nicer boxed version for display later.  
