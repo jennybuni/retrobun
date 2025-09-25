@@ -6,7 +6,7 @@ categories: ["Guides"]
 draft: false
 cover: ""
 ---
-If you’re reading this, chances are you’ve felt it—that little tug of nostalgia when you see a Pokémon Red cartridge on Instagram, or a neatly lined shelf of NES boxes at a flea market. Maybe you’ve been itching to replay the games you grew up with, or you just love the idea of owning a piece of gaming history. Either way, welcome to the world of retro game collecting. It’s a hobby that blends childhood memories, treasure hunting, and just the right dash of chaos. Let’s talk about how to get started without overwhelming yourself.
+If you’re reading this, chances are you’ve felt it—that little tug of nostalgia when you see a Pokémon Red cartridge on Instagram, or a neatly lined shelf of NES boxes at a games shop. Maybe you’ve been itching to replay the games you grew up with, or you just love the idea of owning a piece of gaming history. Either way, welcome to the world of retro game collecting. It’s a hobby that blends childhood memories, treasure hunting, and just the right dash of chaos. Let’s talk about how to get started without overwhelming yourself.
 
 ## Step One: Pick Your Anchor Game
 
