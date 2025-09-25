@@ -10,15 +10,15 @@ If you’re reading this, chances are you’ve felt it—that little tug of nost
 
 ## Step One: Pick Your Anchor Game
 
-Every collection needs a starting point—something that grounds you and keeps you motivated. For a lot of folks, Pokémon is the perfect anchor. Think back: did you play Pokémon Red or Blue at recess? Were you the kid with Pokémon Yellow and the special Pikachu edition Game Boy Color? Maybe you skipped straight to FireRed and LeafGreen on the Game Boy Advance.
+Every collection needs a starting point—something that grounds you and keeps you motivated. For a lot of folks, Pokémon is the perfect anchor. Think back: did you play Pokémon Red or Blue on your lunch break? Were you the kid with Pokémon Yellow and the special Pikachu edition Game Boy Color? Maybe you skipped straight to FireRed and LeafGreen on the Game Boy Advance.
 
-Whatever your personal “first Pokémon” was, start there. Hunt down a copy of the game you remember most fondly. The thrill of holding that chunky little gray cartridge or popping a translucent GBA cart into a handheld again is what kicks the collecting bug into high gear.
+Whatever your personal “first Pokémon” was, start there. Hunt down a copy of the game you remember most fondly. The thrill of holding that chunky little cartridge or popping a translucent GBA cart into a handheld again is what kicks the collecting bug into high gear.
 
 ## Step Two: Learn the Lingo
 
 Retro collecting can sound like a secret club until you know the terms. Here are a few basics that pop up often:
 
-Loose – Just the cartridge. Usually the cheapest way to buy. Great if you want to play.
+Loose – Just the cartridge. Usually the cheapest way to buy. Great if you want to just play.
 
 CIB (Complete in Box) – Cartridge, original box, and instruction manual. Collectors drool over this.
 
@@ -34,15 +34,15 @@ Some collectors focus on just one series (Pokémon-only shelves are very real). 
 
 If you’re starting small, I recommend focusing on one series or one console. Pokémon alone is a deep rabbit hole: the Game Boy era, the GBA remakes, spin-offs like Pokémon Pinball (with the built-in rumble!), and even oddities like Hey You, Pikachu! for the N64. Narrowing your focus will save you money and keep things fun.
 
-Step Four: Where to Find Games
+## Step Four: Where to Find Games
 
 Now the fun part: the hunt. Here are some beginner-friendly hunting grounds:
 
-Local game shops – Many cities have retro shops where you can browse in person. Prices vary, but you’ll usually avoid fakes.
+Local game shops – Many towns and cities have retro shops where you can browse in person. Prices vary, but you’ll usually avoid fakes.
 
-Conventions & flea markets – Treasure-hunting vibes at their peak. Bring cash and haggle politely.
+Conventions – Treasure-hunting vibes at their peak. Bring cash and haggle politely.
 
-Online marketplaces (eBay, Mercari, etc.) – Huge selection, but be careful of repros. Always check seller ratings and cartridge photos.
+Online marketplaces (eBay, Facebook Marketplace, etc.) – Huge selection, but be careful of repros. Always check seller ratings and cartridge photos.
 
 Friends & family – Don’t overlook this one. You’d be amazed how many people still have a shoebox of games in the attic.
 
@@ -52,7 +52,7 @@ One of the biggest beginner mistakes is accidentally buying a fake. Pokémon gam
 
 Label quality – Originals have crisp printing and a glossy finish. Repros often look blurry or too shiny.
 
-Cartridge color – GBA Pokémon carts were transparent with glittery plastic (like Emerald’s green). If it looks off, it probably is.
+Cartridge color – GBA Pokémon carts were transparent (like Emerald’s green). If it looks off, it probably is.
 
 Back screws – Authentic carts use a special “tri-wing” screw, not a regular Phillips head.
 
@@ -70,6 +70,4 @@ The best part of collecting is that it’s yours. There’s no right or wrong wa
 
 Start with one game. Learn the ropes. Share your finds online (collectors love cheering each other on). And above all, let the hobby bring you joy.
 
-Because when you hold that little gray Pokémon cartridge, you’re not just collecting plastic—you’re holding a piece of your childhood. And that’s worth more than any price guide can tell you.
-
-🕹️ Next week, I’ll dive deeper into the world of Pokémon collecting, starting with Pokémon Red, Blue, and Yellow—the cartridges that started it all. Spoiler: you’re going to want to check those battery saves.
+Because when you hold that little Pokémon cartridge, you’re not just collecting plastic you’re holding a piece of your childhood. And that’s worth more than any price guide can tell you.
