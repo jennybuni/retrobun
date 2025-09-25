@@ -2,41 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Retrobun collection</title>
-    <link>http://localhost:1313/retroblog/tags/</link>
+    <link>http://localhost:1313/retrobun/tags/</link>
     <description>Recent content in Tags on Retrobun collection</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2025 Jenny</copyright>
-    <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/retroblog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/retrobun/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Collecting</title>
-      <link>http://localhost:1313/retroblog/tags/collecting/</link>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/retroblog/tags/collecting/</guid>
+      <link>http://localhost:1313/retrobun/tags/collecting/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retrobun/tags/collecting/</guid>
       <description></description>
-      <content></content>
     </item>
-    
+    <item>
+      <title>Pokemon</title>
+      <link>http://localhost:1313/retrobun/tags/pokemon/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retrobun/tags/pokemon/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Fake-Check</title>
-      <link>http://localhost:1313/retroblog/tags/fake-check/</link>
+      <link>http://localhost:1313/retrobun/tags/fake-check/</link>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/retroblog/tags/fake-check/</guid>
+      <guid>http://localhost:1313/retrobun/tags/fake-check/</guid>
       <description></description>
-      <content></content>
     </item>
-    
     <item>
-      <title>NES</title>
-      <link>http://localhost:1313/retroblog/tags/nes/</link>
+      <title>GBA</title>
+      <link>http://localhost:1313/retrobun/tags/gba/</link>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/retroblog/tags/nes/</guid>
+      <guid>http://localhost:1313/retrobun/tags/gba/</guid>
       <description></description>
-      <content></content>
     </item>
-    
   </channel>
 </rss>
