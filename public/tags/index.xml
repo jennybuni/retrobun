@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Retrobun collection</title><link>https://jennybuni.github.io/retrobun/tags/</link><description>Recent content in Tags on Retrobun collection</description><generator>Hugo</generator><language>en</language><copyright>© 2025 Jenny</copyright><lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jennybuni.github.io/retrobun/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Collecting</title><link>https://jennybuni.github.io/retrobun/tags/collecting/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://jennybuni.github.io/retrobun/tags/collecting/</guid><description/></item><item><title>Pokemon</title><link>https://jennybuni.github.io/retrobun/tags/pokemon/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://jennybuni.github.io/retrobun/tags/pokemon/</guid><description/></item><item><title>Fake-Check</title><link>https://jennybuni.github.io/retrobun/tags/fake-check/</link><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><guid>https://jennybuni.github.io/retrobun/tags/fake-check/</guid><description/></item><item><title>GBA</title><link>https://jennybuni.github.io/retrobun/tags/gba/</link><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><guid>https://jennybuni.github.io/retrobun/tags/gba/</guid><description/></item><item><title>Systems</title><link>https://jennybuni.github.io/retrobun/tags/systems/</link><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><guid>https://jennybuni.github.io/retrobun/tags/systems/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Retrobun collection</title>
+    <link>http://localhost:1313/retrobun/tags/</link>
+    <description>Recent content in Tags on Retrobun collection</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2025 Jenny</copyright>
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/retrobun/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collecting</title>
+      <link>http://localhost:1313/retrobun/tags/collecting/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retrobun/tags/collecting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pokemon</title>
+      <link>http://localhost:1313/retrobun/tags/pokemon/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retrobun/tags/pokemon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fake-Check</title>
+      <link>http://localhost:1313/retrobun/tags/fake-check/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retrobun/tags/fake-check/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GBA</title>
+      <link>http://localhost:1313/retrobun/tags/gba/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retrobun/tags/gba/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems</title>
+      <link>http://localhost:1313/retrobun/tags/systems/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retrobun/tags/systems/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

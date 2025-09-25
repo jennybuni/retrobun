@@ -1,1 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://jennybuni.github.io/retrobun/categories/</loc><lastmod>2025-09-25T00:00:00+00:00</lastmod></url><url><loc>https://jennybuni.github.io/retrobun/tags/collecting/</loc><lastmod>2025-09-25T00:00:00+00:00</lastmod></url><url><loc>https://jennybuni.github.io/retrobun/categories/guides/</loc><lastmod>2025-09-25T00:00:00+00:00</lastmod></url><url><loc>https://jennybuni.github.io/retrobun/tags/pokemon/</loc><lastmod>2025-09-25T00:00:00+00:00</lastmod></url><url><loc>https://jennybuni.github.io/retrobun/posts/</loc><lastmod>2025-09-25T00:00:00+00:00</lastmod></url><url><loc>https://jennybuni.github.io/retrobun/</loc><lastmod>2025-09-25T00:00:00+00:00</lastmod></url><url><loc>https://jennybuni.github.io/retrobun/posts/starting-your-collection/</loc><lastmod>2025-09-25T00:00:00+00:00</lastmod></url><url><loc>https://jennybuni.github.io/retrobun/tags/</loc><lastmod>2025-09-25T00:00:00+00:00</lastmod></url><url><loc>https://jennybuni.github.io/retrobun/about/</loc><lastmod>2025-09-17T00:00:00+00:00</lastmod></url><url><loc>https://jennybuni.github.io/retrobun/tags/fake-check/</loc><lastmod>2025-09-17T00:00:00+00:00</lastmod></url><url><loc>https://jennybuni.github.io/retrobun/tags/gba/</loc><lastmod>2025-09-17T00:00:00+00:00</lastmod></url><url><loc>https://jennybuni.github.io/retrobun/posts/spotting-fake-nes-carts/</loc><lastmod>2025-09-17T00:00:00+00:00</lastmod></url><url><loc>https://jennybuni.github.io/retrobun/tags/systems/</loc><lastmod>2025-09-17T00:00:00+00:00</lastmod></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/retrobun/categories/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/retrobun/tags/collecting/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/retrobun/categories/guides/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/retrobun/tags/pokemon/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/retrobun/posts/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/retrobun/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/retrobun/posts/starting-your-collection/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/retrobun/tags/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/retrobun/about/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/retrobun/tags/fake-check/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/retrobun/tags/gba/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/retrobun/posts/spotting-fake-nes-carts/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/retrobun/tags/systems/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url>
+</urlset>
