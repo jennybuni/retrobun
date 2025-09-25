@@ -36,7 +36,7 @@ If you’re itching to add *HeartGold* or *SoulSilver* to your shelf, here’s s
 
 - **Pokéwalker Caution**: If you’re buying a Pokéwalker, confirm the battery compartment isn’t corroded. And make sure it comes with the back covers it’s surprisingly hard to find those separately.  
 
-- **Play vs. Display**: Decide early if you want a copy to play or one to keep pristine. It’s totally fine to have a “player cart” and a nicer boxed version for display later.  
+- **Play vs Display**: Decide early if you want a copy to play or one to keep pristine. It’s totally fine to have a “player cart” and a nicer boxed version for display later.  
 
 ## Fun Fact
 Here’s a neat tidbit: the Pokéwalker wasn’t just a gimmick—it actually had exclusive Pokémon and items you could only obtain by walking! This included rare finds like Surfing Pikachu, making the accessory a true gameplay enhancer, not just a pedometer. In a way, it was Pokémon GO before Pokémon GO—seven years early.  

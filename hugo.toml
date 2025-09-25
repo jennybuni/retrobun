@@ -1,6 +1,6 @@
 baseURL = "https://jennybuni.github.io/retrobun/"
 languageCode = "en-us"
-title = "Retrobun Collection"
+title = "Retrobun"
 theme = "re-terminal"
 enableGitInfo = false
 
@@ -25,7 +25,7 @@ enableGitInfo = false
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Retrobun collection"
+    title = "Retrobun"
     subtitle = "Search and spot the Real, Play the Retro"
     owner = "Jenny"
     keywords = ["retro", "gaming", "fake", "collecting", "guides"]
