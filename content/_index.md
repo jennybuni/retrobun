@@ -3,6 +3,7 @@ title: "Retrobun Collection"
 description: "Guides, tips, and resources for retro game collectors — from spotting fakes to preserving classics."
 cover: "logo.jpg" # optional if you want a header image
 ---
+![logo](logo.jpg )
 
 Welcome to **Retrobun Collection**, 
 a cozy corner of the internet dedicated to the thrill of hunting, playing, and preserving classic video games. 
