@@ -30,7 +30,7 @@ jobs:
           extended: true
 
       - name: Build production site
-        run: hugo --minify --baseURL "https://jennybuni.github.io/retrobun/"
+        run: hugo --minify --baseURL "https://retrobun.com/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
