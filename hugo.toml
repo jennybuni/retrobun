@@ -7,6 +7,7 @@ enableGitInfo = false
 [pagination]
   pagerSize = 5
 
+
 [params]
   contentTypeName = "posts"
   themeColor = "pink"        # choose: orange, blue, red, green, pink, paper
@@ -15,6 +16,7 @@ enableGitInfo = false
   centerTheme = false
   autoCover = true
   showLastUpdated = true
+  ReadMore = "Read more"
 
   [params.banner]
     dismissible = false
@@ -28,9 +30,8 @@ enableGitInfo = false
     owner = "Jenny"
     keywords = ["retro", "gaming", "fake", "collecting", "guides"]
     copyright = "© 2025 Jenny"
-    menuMore = "More"
-    ReadMore = "Read more"
-    readOtherPosts = "Other posts"
+  menuMore = "More"
+  readOtherPosts = "Other posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
     missingContentMessage = "Page not found..."
