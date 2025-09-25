@@ -38,7 +38,7 @@ enableGitInfo = false
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Retrobun Collection"
+      logoText = "Retrobun"
       logoHomeLink = "/"
       logoImage = "images/logo.png"
 
