@@ -1,7 +1,7 @@
 ---
 title: "How to Spot Fake GBA Carts"
 date: 2025-09-17
-tags: ["fake-check","NES","collecting"]
+tags: ["fake-check","GBA","collecting"]
 categories: ["Guides"]
 draft: true
 cover: "cartridge1.jpg"
