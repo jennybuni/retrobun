@@ -39,6 +39,7 @@ enableGitInfo = true
     [languages.en.params.logo]
       logoText = "Retrobun Collection"
       logoHomeLink = "/"
+      logoImage = "/content/logo.png"
 
     [[languages.en.menu.main]]
       identifier = "about"
