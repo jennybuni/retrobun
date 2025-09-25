@@ -1,0 +1,10 @@
+<a href="/retrobun/">
+  <div class="logo">
+    {{ if .Site.Language.Params.logo.logoImage }}
+      <img src="{{ .Site.Language.Params.logo.logoImage | relURL }}" alt="Logo" style="height:80px;vertical-align:middle;">
+    {{ else if .Site.Params.logo.logoImage }}
+      <img src="{{ .Site.Params.logo.logoImage | relURL }}" alt="Logo" style="height:80px;vertical-align:middle;">
+    {{ end }}
+    {{ with $.Site.Params.Logo.logoText }}<span style="margin-left:10px;">{{ . }}</span>{{ else }}Terminal{{ end }}
+  </div>
+</a>
