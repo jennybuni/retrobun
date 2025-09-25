@@ -4,9 +4,10 @@ date: 2025-09-25
 draft: false
 tags: ["pokemon", "ds", "collecting", "heartgold", "soulsilver", "pokewalker"]
 description: "A nostalgic dive into collecting Pokémon HeartGold & SoulSilver for the Nintendo DS, complete with Pokéwalker tips, beginner advice, and memories of Johto."
-cover: "hg-ss-box.webp" width="200" 
+#cover: "hg-ss-box.webp" width="200" 
+# Cover image
+<img src="/posts/pokemon-hg-ss/hg-ss-box.webp" alt="HeartGold & SoulSilver Box" width="300" />
 ---
-
 # Collecting Pokémon HeartGold & SoulSilver: A Johto Journey Worth Taking
 
 ## A Nostalgia Hook
