@@ -21,7 +21,7 @@ Here’s why these games are on so many collectors’ radars today:
 
 - **Pokéwalker Completeness**: Finding a copy with the original Pokéwalker (and that tiny plastic clip) skyrockets the value. Loose cartridges are fun to play, but a *Complete in Box* (often abbreviated “CIB”) set with Pokéwalker, manuals, and inserts is where collectors get excited.  
 - **Condition is King**: Because the Pokéwalker was meant to be used, many secondhand units are scratched, missing battery covers, or nonfunctional. Pristine ones—or better yet, sealed copies—are incredibly desirable.  
-- **Value Trend**: A few years ago, you could scoop up a loose copy for around $40. Today? Expect $120–150 for a cartridge alone, and $250+ for CIB sets in good condition. Sealed copies can push into the $500–600 range, depending on region.  
+- **Value Trend**: A few years ago, you could scoop up a loose copy for around £20. Today? Expect £80–100 for a cartridge alone, and £120+ for a boxed copy, £220+ for CIB (including pokewalker) sets in good condition. Sealed copies can push into the £700–800 range, depending on region.  
 - **Regional Variants**: The Japanese releases had slightly different packaging and inserts, which some collectors chase specifically to build a “world set.”  
 
 ## Beginner Tips for Collectors
@@ -31,7 +31,7 @@ If you’re itching to add *HeartGold* or *SoulSilver* to your shelf, here’s s
 - **Check Authenticity**: Flip the DS cart over and look for the tiny imprinted code. Genuine DS games have a slightly raised, etched number above the connectors. Repro (reproduction) carts often miss this detail or feel lighter in hand. The other thing you can check is if you can see through the cartridge when held up to light.   
 ![Real DS cartridge](counterfitcheck.webp "If you can see through the cartridge its genuine")
 
-- **Where to Hunt**: eBay and PriceCharting are obvious choices, but don’t sleep on local retro shops, flea markets, or even Facebook Marketplace. Sometimes you’ll stumble across a parent selling their kid’s old DS stash for cheap.  
+- **Where to Hunt**: eBay and PriceCharting are obvious choices, but don’t sleep on local retro shops, charity shops, or even Facebook Marketplace. Sometimes you’ll stumble across a parent selling their kid’s old DS stash for cheap.  
 - **Pokéwalker Caution**: If you’re buying a Pokéwalker, confirm the battery compartment isn’t corroded. And make sure it comes with the back covers it’s surprisingly hard to find those separately.  
 
 - **Play vs. Display**: Decide early if you want a copy to play or one to keep pristine. It’s totally fine to have a “player cart” and a nicer boxed version for display later.  
@@ -42,5 +42,3 @@ Here’s a neat tidbit: the Pokéwalker wasn’t just a gimmick—it actually ha
 ## Closing Thoughts
 For many collectors, *HeartGold* and *SoulSilver* hit that sweet spot: they’re modern enough to feel polished, but old enough to tug at our childhood memories of Johto. Every time I see that gleaming Ho-Oh or Lugia box art on a shelf, I can almost hear the chiptune cries of my first Cyndaquil and remember trading with friends by holding our DS systems back-to-back. Whether you had the patience to grind steps on your Pokéwalker or just loved the thrill of re-challenging the Kanto region after Johto, these games aren’t just cartridges—they’re time machines.  
 
-## Share Your Story
-So, do you still have your Pokéwalker tucked away in a drawer? Or maybe you’re just starting the hunt for your first copy of *HeartGold* or *SoulSilver*. Share your stories in the comments—I’d love to hear them! And don’t forget to follow the blog for next week’s post, where we’ll dive into another must-have piece of Pokémon collecting history. Trust me—you won’t want to miss it. 
