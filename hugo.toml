@@ -2,7 +2,7 @@ baseURL = "https://jennybuni.github.io/retrobun/"
 languageCode = "en-us"
 title = "Retrobun Collection"
 theme = "re-terminal"
-enableGitInfo = true
+enableGitInfo = false
 
 [pagination]
   pagerSize = 5
