@@ -12,10 +12,10 @@ enableGitInfo = false
   contentTypeName = "posts"
   themeColor = "pink"        # choose: orange, blue, red, green, pink, paper
   showMenuItems = 3
-  fullWidthTheme = false
+  fullWidthTheme = true
   centerTheme = false
   autoCover = true
-  showLastUpdated = true
+  showLastUpdated = false
   ReadMore = "Read more"
 
   [params.banner]
@@ -29,7 +29,7 @@ enableGitInfo = false
     subtitle = "Search and spot the Real, Play the Retro"
     owner = "Jenny"
     keywords = ["retro", "gaming", "fake", "collecting", "guides"]
-    copyright = "© 2025 Jenny"
+    copyright = "© 2025 Jennybun"
   menuMore = "More"
   readOtherPosts = "Other posts"
     newerPosts = "Newer posts"
