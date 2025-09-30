@@ -61,6 +61,9 @@ New to collecting? Here’s your Chrono Trigger DS quick-start:
 ## Fun facts:
 Chrono Trigger’s soundtrack almost didn’t happen the way we know it: Yasunori Mitsuda reportedly worked so hard he fell ill, and Final Fantasy’s Nobuo Uematsu stepped in to help finish the score. The DS version lets you appreciate those tracks with minimal loading and tidy menus—perfect for slipping on headphones and getting lost in “Corridors of Time.” Also neat: the DS release’s revised script restores a handful of names and nuances closer to the Japanese original, which longtime fans love to debate over tea.
 
+![](cronotitle.webp)
+![](chronoingame.webp)
+
 ## Closing thoughts:
 Every time I click that DS cart into place and the title theme swells, I’m right back in the school holidays—window open, rain tapping the sill, trying to figure out if I should grind a bit or risk tackling Magus under-leveled. If your copy is sitting on a shelf, give it a spin tonight. Visit 1000 A.D., make friends with a melancholic robot, and let a talking frog remind you that bravery wears many faces. That’s the joy of collecting: not just owning history, but stepping into it whenever you need a little wonder.
 
