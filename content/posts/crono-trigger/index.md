@@ -44,9 +44,9 @@ New to collecting? Here’s your Chrono Trigger DS quick-start:
 - **Where to buy:** Check local retro game shops, car-boot sales (bring cash and patience!), trusted online marketplaces, and collector groups. UK readers: shops will often grade condition clearly, and places like CeX list stock online—handy for checking availability before you trek out.
 
 - **Authenticity checks (DS edition):**  
-  - Cartridge shell should feel sturdy with a proper tri-wing screw on the back and crisp “NTR-005 PAT. PEND.” text.  
+  - Cartridge shell should feel sturdy with a proper crisp “NTR-005 PAT. PEND.” text on the back.  
   - Label printing should be sharp—no fuzzy edges or off-colours—and sit perfectly centered with clean cuts around the curve.  
-  - Light test: hold the cart to a bright light and look for a proper PCB; legit boards have neat traces and “Nintendo” markings.  
+   
   - Case: look for the embossed “Nintendo DS” logo on the plastic and high-quality, correctly aligned cover art under the clear sleeve. Manuals should be well-cut, not washed-out photocopies.
 
   ![Real DS cartridge](cart.webp )  ![Real Ds cartridge](cartback.webp)
