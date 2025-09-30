@@ -1,54 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Retrobun collection</title>
-    <link>http://localhost:1313/retrobun/tags/</link>
-    <description>Recent content in Tags on Retrobun collection</description>
+    <title>Tags on Retrobun</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Retrobun</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Jenny</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/retrobun/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Jennybun</copyright>
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chrono Trigger</title>
+      <link>http://localhost:1313/tags/chrono-trigger/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chrono-trigger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CIB</title>
+      <link>http://localhost:1313/tags/cib/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cib/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Collecting</title>
-      <link>http://localhost:1313/retrobun/tags/collecting/</link>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/tags/collecting/</guid>
+      <link>http://localhost:1313/tags/collecting/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/collecting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nintendo DS</title>
+      <link>http://localhost:1313/tags/nintendo-ds/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nintendo-ds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RPG</title>
+      <link>http://localhost:1313/tags/rpg/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rpg/</guid>
       <description></description>
     </item>
     <item>
       <title>Ds</title>
-      <link>http://localhost:1313/retrobun/tags/ds/</link>
+      <link>http://localhost:1313/tags/ds/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/tags/ds/</guid>
+      <guid>http://localhost:1313/tags/ds/</guid>
       <description></description>
     </item>
     <item>
       <title>Heartgold</title>
-      <link>http://localhost:1313/retrobun/tags/heartgold/</link>
+      <link>http://localhost:1313/tags/heartgold/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/tags/heartgold/</guid>
+      <guid>http://localhost:1313/tags/heartgold/</guid>
       <description></description>
     </item>
     <item>
       <title>Pokemon</title>
-      <link>http://localhost:1313/retrobun/tags/pokemon/</link>
+      <link>http://localhost:1313/tags/pokemon/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/tags/pokemon/</guid>
+      <guid>http://localhost:1313/tags/pokemon/</guid>
       <description></description>
     </item>
     <item>
       <title>Pokewalker</title>
-      <link>http://localhost:1313/retrobun/tags/pokewalker/</link>
+      <link>http://localhost:1313/tags/pokewalker/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/tags/pokewalker/</guid>
+      <guid>http://localhost:1313/tags/pokewalker/</guid>
       <description></description>
     </item>
     <item>
       <title>Soulsilver</title>
-      <link>http://localhost:1313/retrobun/tags/soulsilver/</link>
+      <link>http://localhost:1313/tags/soulsilver/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/tags/soulsilver/</guid>
+      <guid>http://localhost:1313/tags/soulsilver/</guid>
       <description></description>
     </item>
   </channel>

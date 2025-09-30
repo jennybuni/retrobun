@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soulsilver on Retrobun collection</title>
-    <link>http://localhost:1313/retrobun/tags/soulsilver/</link>
-    <description>Recent content in Soulsilver on Retrobun collection</description>
+    <title>Soulsilver on Retrobun</title>
+    <link>http://localhost:1313/tags/soulsilver/</link>
+    <description>Recent content in Soulsilver on Retrobun</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Jenny</copyright>
+    <copyright>© 2025 Jennybun</copyright>
     <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/retrobun/tags/soulsilver/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/soulsilver/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Collecting Pokémon HeartGold &amp; SoulSilver: A Johto Journey Worth Taking</title>
-      <link>http://localhost:1313/retrobun/posts/pokemon-hg-ss/</link>
+      <link>http://localhost:1313/posts/pokemon-hg-ss/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/posts/pokemon-hg-ss/</guid>
-      <description>&lt;h1 id=&#34;collecting-pokémon-heartgold--soulsilver-a-johto-journey-worth-taking&#34;&gt;Collecting Pokémon HeartGold &amp;amp; SoulSilver: A Johto Journey Worth Taking&lt;/h1&gt;&#xA;&lt;h2 id=&#34;a-nostalgia-hook&#34;&gt;A Nostalgia Hook&lt;/h2&gt;&#xA;&lt;p&gt;Do you remember the first time you slid that chunky, metallic Pokéwalker onto your belt loop and strutted around like you were training for the Pokémon League? Maybe you clipped it to your backpack in middle school, proudly shaking it during class to rack up steps (and hoping your teacher wouldn’t notice). For many of us, &lt;em&gt;Pokémon HeartGold&lt;/em&gt; and &lt;em&gt;SoulSilver&lt;/em&gt; weren’t just DS cartridges—they were our golden tickets back to Johto, complete with a Tamagotchi-style gadget that made us feel like real Trainers again.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/pokemon-hg-ss/</guid>
+      <description>&lt;h1 id=&#34;collecting-pokémon-heartgold--soulsilver-a-johto-journey-worth-taking&#34;&gt;Collecting Pokémon HeartGold &amp;amp; SoulSilver: A Johto Journey Worth Taking&lt;/h1&gt;&#xA;&lt;h2 id=&#34;a-nostalgia-hook&#34;&gt;A Nostalgia Hook&lt;/h2&gt;&#xA;&lt;p&gt;Do you remember the first time you slid that Pokéwalker onto your belt loop and strutted around like you were training for the Pokémon League? Maybe you clipped it to your backpack in school, proudly shaking it during class to rack up steps (and hoping your teacher wouldn’t notice). For many of us, &lt;em&gt;Pokémon HeartGold&lt;/em&gt; and &lt;em&gt;SoulSilver&lt;/em&gt; weren’t just DS cartridges—they were our golden tickets back to Johto, complete with a Tamagotchi-style gadget that made us feel like real Trainers again.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guides on Retrobun collection</title>
-    <link>http://localhost:1313/retrobun/categories/guides/</link>
-    <description>Recent content in Guides on Retrobun collection</description>
+    <title>Guides on Retrobun</title>
+    <link>http://localhost:1313/categories/guides/</link>
+    <description>Recent content in Guides on Retrobun</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Jenny</copyright>
+    <copyright>© 2025 Jennybun</copyright>
     <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/retrobun/categories/guides/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Starting your Retro Game Collection</title>
-      <link>http://localhost:1313/retrobun/posts/starting-your-collection/</link>
+      <link>http://localhost:1313/posts/starting-your-collection/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/posts/starting-your-collection/</guid>
-      <description>&lt;p&gt;If you’re reading this, chances are you’ve felt it—that little tug of nostalgia when you see a Pokémon Red cartridge on Instagram, or a neatly lined shelf of NES boxes at a flea market. Maybe you’ve been itching to replay the games you grew up with, or you just love the idea of owning a piece of gaming history. Either way, welcome to the world of retro game collecting. It’s a hobby that blends childhood memories, treasure hunting, and just the right dash of chaos. Let’s talk about how to get started without overwhelming yourself.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/starting-your-collection/</guid>
+      <description>&lt;p&gt;If you’re reading this, chances are you’ve felt it—that little tug of nostalgia when you see a Pokémon Red cartridge on Instagram, or a neatly lined shelf of NES boxes at a games shop. Maybe you’ve been itching to replay the games you grew up with, or you just love the idea of owning a piece of gaming history. Either way, welcome to the world of retro game collecting. It’s a hobby that blends childhood memories, treasure hunting, and just the right dash of chaos. Let’s talk about how to get started without overwhelming yourself.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

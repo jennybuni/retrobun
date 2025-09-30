@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SNES on Retrobun</title>
+    <link>http://localhost:1313/tags/snes/</link>
+    <description>Recent content in SNES on Retrobun</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2025 Jennybun</copyright>
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/snes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chrono Trigger — A Time-Traveling Collector’s Sweet Spot</title>
+      <link>http://localhost:1313/posts/crono-trigger/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/crono-trigger/</guid>
+      <description>&lt;h2 id=&#34;nostalgia-time&#34;&gt;Nostalgia time:&lt;/h2&gt;&#xA;&lt;p&gt;Remember the first time you heard that clock tick—tick—tick and your stomach did a little flip? For some of us it was a chunky SNES cart; for others (hi, that’s us today) it was the slick snap of a Nintendo DS cartridge sliding into place. Either way, Chrono Trigger isn’t just a game—it’s a time machine that still smells faintly of fresh manual ink and late-night hot chocolate.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

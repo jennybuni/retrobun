@@ -1,33 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Retrobun Collection on Retrobun collection</title>
-    <link>http://localhost:1313/retrobun/</link>
-    <description>Recent content in Retrobun Collection on Retrobun collection</description>
+    <title>Retrobun Collection on Retrobun</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Retrobun Collection on Retrobun</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 Jenny</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/retrobun/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Jennybun</copyright>
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chrono Trigger — A Time-Traveling Collector’s Sweet Spot</title>
+      <link>http://localhost:1313/posts/crono-trigger/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/crono-trigger/</guid>
+      <description>&lt;h2 id=&#34;nostalgia-time&#34;&gt;Nostalgia time:&lt;/h2&gt;&#xA;&lt;p&gt;Remember the first time you heard that clock tick—tick—tick and your stomach did a little flip? For some of us it was a chunky SNES cart; for others (hi, that’s us today) it was the slick snap of a Nintendo DS cartridge sliding into place. Either way, Chrono Trigger isn’t just a game, it’s a time machine that still smells faintly of fresh manual ink and late-night hot chocolate.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Collecting Pokémon HeartGold &amp; SoulSilver: A Johto Journey Worth Taking</title>
-      <link>http://localhost:1313/retrobun/posts/pokemon-hg-ss/</link>
+      <link>http://localhost:1313/posts/pokemon-hg-ss/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/posts/pokemon-hg-ss/</guid>
-      <description>&lt;h1 id=&#34;collecting-pokémon-heartgold--soulsilver-a-johto-journey-worth-taking&#34;&gt;Collecting Pokémon HeartGold &amp;amp; SoulSilver: A Johto Journey Worth Taking&lt;/h1&gt;&#xA;&lt;h2 id=&#34;a-nostalgia-hook&#34;&gt;A Nostalgia Hook&lt;/h2&gt;&#xA;&lt;p&gt;Do you remember the first time you slid that chunky, metallic Pokéwalker onto your belt loop and strutted around like you were training for the Pokémon League? Maybe you clipped it to your backpack in middle school, proudly shaking it during class to rack up steps (and hoping your teacher wouldn’t notice). For many of us, &lt;em&gt;Pokémon HeartGold&lt;/em&gt; and &lt;em&gt;SoulSilver&lt;/em&gt; weren’t just DS cartridges—they were our golden tickets back to Johto, complete with a Tamagotchi-style gadget that made us feel like real Trainers again.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/pokemon-hg-ss/</guid>
+      <description>&lt;h1 id=&#34;collecting-pokémon-heartgold--soulsilver-a-johto-journey-worth-taking&#34;&gt;Collecting Pokémon HeartGold &amp;amp; SoulSilver: A Johto Journey Worth Taking&lt;/h1&gt;&#xA;&lt;h2 id=&#34;a-nostalgia-hook&#34;&gt;A Nostalgia Hook&lt;/h2&gt;&#xA;&lt;p&gt;Do you remember the first time you slid that Pokéwalker onto your belt loop and strutted around like you were training for the Pokémon League? Maybe you clipped it to your backpack in school, proudly shaking it during class to rack up steps (and hoping your teacher wouldn’t notice). For many of us, &lt;em&gt;Pokémon HeartGold&lt;/em&gt; and &lt;em&gt;SoulSilver&lt;/em&gt; weren’t just DS cartridges—they were our golden tickets back to Johto, complete with a Tamagotchi-style gadget that made us feel like real Trainers again.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starting your Retro Game Collection</title>
-      <link>http://localhost:1313/retrobun/posts/starting-your-collection/</link>
+      <link>http://localhost:1313/posts/starting-your-collection/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/posts/starting-your-collection/</guid>
-      <description>&lt;p&gt;If you’re reading this, chances are you’ve felt it—that little tug of nostalgia when you see a Pokémon Red cartridge on Instagram, or a neatly lined shelf of NES boxes at a flea market. Maybe you’ve been itching to replay the games you grew up with, or you just love the idea of owning a piece of gaming history. Either way, welcome to the world of retro game collecting. It’s a hobby that blends childhood memories, treasure hunting, and just the right dash of chaos. Let’s talk about how to get started without overwhelming yourself.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/starting-your-collection/</guid>
+      <description>&lt;p&gt;If you’re reading this, chances are you’ve felt it—that little tug of nostalgia when you see a Pokémon Red cartridge on Instagram, or a neatly lined shelf of NES boxes at a games shop. Maybe you’ve been itching to replay the games you grew up with, or you just love the idea of owning a piece of gaming history. Either way, welcome to the world of retro game collecting. It’s a hobby that blends childhood memories, treasure hunting, and just the right dash of chaos. Let’s talk about how to get started without overwhelming yourself.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Retrobun Collection</title>
-      <link>http://localhost:1313/retrobun/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/retrobun/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;about-retrobun-collection-&#34;&gt;About Retrobun Collection 🎮&lt;/h1&gt;&#xA;&lt;p&gt;Hi, I’m Jenny — welcome to &lt;strong&gt;Retrobun Collection&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;This blog is all about my love for retro games and the amazing community of collectors who keep these classics alive. Here, I share guides, stories, and tips on:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🕹 &lt;strong&gt;Collecting&lt;/strong&gt; retro consoles, cartridges, and accessories&lt;/li&gt;&#xA;&lt;li&gt;🔎 &lt;strong&gt;Spotting fakes&lt;/strong&gt; and bootlegs in the wild&lt;/li&gt;&#xA;&lt;li&gt;🛠 &lt;strong&gt;Repairing &amp;amp; preserving&lt;/strong&gt; classic hardware and carts&lt;/li&gt;&#xA;&lt;li&gt;📚 &lt;strong&gt;Documenting history&lt;/strong&gt; so it doesn’t fade away&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I started Retrobun Collection because I noticed how many newcomers to collecting were unsure about what’s real, what’s fake, and what’s worth saving. Hopefully, these guides help you grow your collection with confidence!&lt;/p&gt;</description>
     </item>
   </channel>

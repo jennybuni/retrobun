@@ -5,6 +5,7 @@ date: 2025-09-30T09:00:00+01:00
 draft: true
 description: "A warm, beginner-friendly look at collecting Pokémon Black & White for Nintendo DS—nostalgia hits, version differences, authenticity checks, and simple tips to start your Gen V shelf."
 tags: ["pokemon", "generation v", "nintendo ds", "retro collecting", "unova"]
+readingTime: true 
 --------------------------------
 
 ## Nostalga Hook
