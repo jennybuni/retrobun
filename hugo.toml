@@ -56,3 +56,8 @@ enableGitInfo = false
       identifier = "collecting"
       name = "Collecting"
       url = "/tags/collecting/"
+
+    [[languages.en.menu.main]]
+      identifier = "nintendo ds"
+      name = "Nintendo DS"
+      url = "/tags/nintendo-ds/"
