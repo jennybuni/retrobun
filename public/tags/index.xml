@@ -17,13 +17,6 @@
       <description></description>
     </item>
     <item>
-      <title>CIB</title>
-      <link>http://localhost:1313/tags/cib/</link>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cib/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Collecting</title>
       <link>http://localhost:1313/tags/collecting/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
@@ -42,6 +35,13 @@
       <link>http://localhost:1313/tags/rpg/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/rpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNES</title>
+      <link>http://localhost:1313/tags/snes/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/snes/</guid>
       <description></description>
     </item>
     <item>

@@ -3,7 +3,7 @@ title: "Chrono Trigger — A Time-Traveling Collector’s Sweet Spot"
 date: "2025-09-30"
 author: "Retrobun"
 draft: false
-cover: "chronobox.webp" 
+cover: "chronobox.webp"
 coverCaption: ""  # optional caption for the cover image
 tags: ["Chrono Trigger", "Nintendo DS", "RPG", "Collecting", "SNES"]
 description: "Why the Nintendo DS release of Chrono Trigger is a beginner-friendly collectible—with tips on CIB, authenticity checks, and nostalgia."
@@ -29,7 +29,7 @@ So why is the DS release such a sweet spot for collectors? Three big reasons:
 3) **Value Position:** While the original SNES cart and especially a SNES CIB can get pricey, the DS release tends to be more accessible—still collectible, but less terrifying to the wallet. It’s climbed over the years (popular games do!), but it remains a smart “play it and love it” pickup that also looks great on the shelf.
 
 If you like variants, keep an eye out for regional packaging differences (PEGI vs ESRB, multilingual manuals, small barcode stickers from specific retailers). Sealed copies exist, but those are best for advanced collectors who are comfortable authenticating shrink-wrap patterns and factory seams. For most of us, a clean CIB is the perfect middle ground: display-worthy and totally playable.
-
+![](chronoboxback.webp)
 ![Complete in box](chronocib.webp)
 
 ## Tips:
@@ -49,8 +49,8 @@ New to collecting? Here’s your Chrono Trigger DS quick-start:
   - Light test: hold the cart to a bright light and look for a proper PCB; legit boards have neat traces and “Nintendo” markings.  
   - Case: look for the embossed “Nintendo DS” logo on the plastic and high-quality, correctly aligned cover art under the clear sleeve. Manuals should be well-cut, not washed-out photocopies.
 
-  ![Real DS cartridge](cart.webp ) 
-  ![Real Ds cartridge](cartback.webp)
+  ![Real DS cartridge](cart.webp )  ![Real Ds cartridge](cartback.webp)
+ 
 
 - **Condition cues:** Sun-faded spines, crushed corners, or manual staining will lower value. DS carts usually save to flash memory, so you’re not worrying about a dead save battery like on some older cartridges.
 

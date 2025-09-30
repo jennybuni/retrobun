@@ -14,9 +14,6 @@
     <loc>http://localhost:1313/posts/crono-trigger/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cib/</loc>
-    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/collecting/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,6 +21,9 @@
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rpg/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/snes/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
