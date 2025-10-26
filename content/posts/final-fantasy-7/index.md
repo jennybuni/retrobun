@@ -5,7 +5,7 @@ date: 2025-10-07
 author: "Retro Game Blogger"
 tags: ["Final Fantasy", "PS1", "Retro Collecting", "JRPG", "SquareSoft"]
 summary: "Let’s revisit the RPG that defined a generation — Final Fantasy VII on the original PlayStation. Here’s why this iconic adventure is a cornerstone of any retro game collection."
-cover: "images/ff7-ps1-cover.jpg"
+cover: "ff7case.HEIC"
 draft: false
 ---
 
@@ -30,6 +30,7 @@ Today, Final Fantasy VII is a crown jewel for PS1 collectors — and there are q
 
 For display purposes, the black label version with its glossy manual and clean discs is absolutely stunning on a shelf. If you’re hunting sealed copies — fair warning — prices have skyrocketed in the past few years, often breaking £200–400 for a verified factory seal.
 
+![Back of case](ff7caseback.HEIC )
 ⸻
 
 
@@ -43,6 +44,9 @@ If you’re just starting your retro PS1 collection, Final Fantasy VII is a perf
 
 And if you just want to play the game, not collect it? The PS4, Switch, and Steam remasters are a fantastic way to relive it without wearing out your laser lens.
 ''Personally I play the Steam version using the 7th Heaven mod manager for upscaled graphics and quality of life.'' 
+
+![DISKS](ff7disks.HEIC)
+
 
 ⸻
 
