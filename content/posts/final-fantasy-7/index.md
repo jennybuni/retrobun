@@ -7,6 +7,8 @@ tags: ["Final Fantasy", "PS1", "Retro Collecting", "JRPG", "SquareSoft"]
 summary: "Let’s revisit the RPG that defined a generation — Final Fantasy VII on the original PlayStation. Here’s why this iconic adventure is a cornerstone of any retro game collection."
 cover: "ff7case.HEIC"
 draft: false
+readingTime: true
+
 ---
 
 
