@@ -6,7 +6,7 @@ author: "Retro Game Blogger"
 tags: ["Final Fantasy", "PS1", "Retro Collecting", "JRPG", "SquareSoft"]
 summary: "Let’s revisit the RPG that defined a generation — Final Fantasy VII on the original PlayStation. Here’s why this iconic adventure is a cornerstone of any retro game collection."
 cover: "images/ff7-ps1-cover.jpg"
-draft: true
+draft: false
 ---
 
 
@@ -15,7 +15,7 @@ Remember the first time you saw Final Fantasy VII’s opening cutscene? The quie
 ⸻
 
 
-Final Fantasy VII hit the PlayStation in 1997 (1998 in Europe) and didn’t just change the series — it changed the entire gaming landscape. It was Square’s first FF title on a non-Nintendo console and the first to use 3D models with pre-rendered backgrounds. The jump from pixel sprites to polygon heroes was like stepping into the future.
+Final Fantasy VII hit the PlayStation in 1998 (1997 in Japan) and didn’t just change the series — it changed the entire gaming landscape. It was Square’s first FF title on a non-Nintendo console and the first to use 3D models with pre-rendered backgrounds. The jump from pixel sprites to polygon heroes was like stepping into the future.
 
 The game follows Cloud Strife, a spiky-haired mercenary who joins the eco-rebel group AVALANCHE in a fight against the corrupt Shinra Corporation — and soon finds himself up against one of gaming’s most iconic villains: Sephiroth. Between the Materia system, the motorcycle chase, and that haunting orchestral score (composed by the legend Nobuo Uematsu), Final Fantasy VII became a cultural moment that defined RPGs for a generation.
 
@@ -23,12 +23,12 @@ The game follows Cloud Strife, a spiky-haired mercenary who joins the eco-rebel 
 
 
 Today, Final Fantasy VII is a crown jewel for PS1 collectors — and there are quite a few versions worth knowing about:
-	•	Black Label (1997): The original retail release with that clean, minimalist cover art. This is the one collectors crave most. CIB (Complete in Box, meaning it includes the manual and all three discs) copies typically sell for $60–120 depending on condition.
-	•	Greatest Hits (Green Label): Reissued in 1998 with a green spine. Still collectible, but usually a bit cheaper — around $30–60.
+	•	Black Label (1997): The original retail release with that clean, minimalist cover art. This is the one collectors crave most. CIB (Complete in Box, meaning it includes the manual and all three discs) copies typically sell for £20–70 depending on condition.
+	•	Greatest Hits (Green Label): Reissued in 1998 with a green spine. Still collectible, but usually a bit cheaper — around £15–30.
 	•	Demo Discs and Samplers: If you really want to flex your collector cred, hunt down the Demo Disc from PlayStation Underground or the Collector’s Edition Sampler CD that teased FFVII before launch.
 	•	Japanese Version (ファイナルファンタジーVII): Released in January 1997, with subtle packaging differences and kanji-heavy manual art.
 
-For display purposes, the black label version with its glossy manual and clean discs is absolutely stunning on a shelf. If you’re hunting sealed copies — fair warning — prices have skyrocketed in the past few years, often breaking $400–600 for a verified factory seal.
+For display purposes, the black label version with its glossy manual and clean discs is absolutely stunning on a shelf. If you’re hunting sealed copies — fair warning — prices have skyrocketed in the past few years, often breaking £200–400 for a verified factory seal.
 
 ⸻
 
@@ -38,10 +38,11 @@ If you’re just starting your retro PS1 collection, Final Fantasy VII is a perf
 	•	Check the discs carefully: Genuine discs have a silver bottom and a Sony hologram near the center ring. If it’s blue or purple, that’s a sign it’s a burned or reproduction copy.
 	•	Manual matters: A true CIB copy includes a thick manual (often over 50 pages) featuring full color art and the pre-rendered character renders.
 	•	Avoid “repro” boxes: Repro (reproduction) cases have slightly blurry print quality or off-center logos. Always check the PlayStation logo embossing on the front — originals are crisp and raised.
-	•	Where to buy: Local retro shops, eBay, or conventions like Retropalooza or Midwest Gaming Classic are great hunting grounds. Always read the description carefully and don’t be afraid to ask sellers for spine or disc photos.
+	•	Where to buy: Local retro shops, eBay, or conventions which are great hunting grounds. Always read the description carefully and don’t be afraid to ask sellers for spine or disc photos.
 	•	Storage tip: Those jewel cases are fragile! Keep them upright, away from heat, and ideally in protective sleeves to avoid cracks and disc rot.
 
 And if you just want to play the game, not collect it? The PS4, Switch, and Steam remasters are a fantastic way to relive it without wearing out your laser lens.
+''Personally I play the Steam version using the 7th Heaven mod manager for upscaled graphics and quality of life.'' 
 
 ⸻
 
