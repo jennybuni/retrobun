@@ -55,6 +55,8 @@ Here’s one for the trivia lovers: the North American version of Final Fantasy 
 
 Oh, and if you ever find the Final Fantasy VII International edition from Japan (with an extra disc of bonus content and developer interviews), it’s one of the most fascinating imports you can add to your shelf. That set even includes an art-filled guidebook tucked neatly into the jewel case.
 
+![Manual](ff7manual.HEIC)
+
 ⸻
 
 
