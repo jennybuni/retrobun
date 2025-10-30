@@ -11,18 +11,16 @@ readingTime: true
 
 ---
 
-
+## A Nostalgia Hook:
 Remember the first time you saw Final Fantasy VII’s opening cutscene? The quiet hum of Midgar, that pan down to Aerith in the alley, and then — boom — the title slams across the screen as the train roars in. For so many of us, that moment was pure magic. If you were lucky enough to unwrap the black-labeled PS1 case back in 1997, you probably spent that entire weekend swapping between three discs, saving on memory cards with 15 blocks, and wondering how something this cinematic could even fit on a console.
 
-⸻
-
+## Returing to Midgar
 
 Final Fantasy VII hit the PlayStation in 1998 (1997 in Japan) and didn’t just change the series — it changed the entire gaming landscape. It was Square’s first FF title on a non-Nintendo console and the first to use 3D models with pre-rendered backgrounds. The jump from pixel sprites to polygon heroes was like stepping into the future.
 
 The game follows Cloud Strife, a spiky-haired mercenary who joins the eco-rebel group AVALANCHE in a fight against the corrupt Shinra Corporation — and soon finds himself up against one of gaming’s most iconic villains: Sephiroth. Between the Materia system, the motorcycle chase, and that haunting orchestral score (composed by the legend Nobuo Uematsu), Final Fantasy VII became a cultural moment that defined RPGs for a generation.
 
-⸻
-
+## Collecting:
 
 Today, Final Fantasy VII is a crown jewel for PS1 collectors — and there are quite a few versions worth knowing about:
 	•	Black Label (1997): The original retail release with that clean, minimalist cover art. This is the one collectors crave most. CIB (Complete in Box, meaning it includes the manual and all three discs) copies typically sell for £20–70 depending on condition.
@@ -33,9 +31,9 @@ Today, Final Fantasy VII is a crown jewel for PS1 collectors — and there are q
 For display purposes, the black label version with its glossy manual and clean discs is absolutely stunning on a shelf. If you’re hunting sealed copies — fair warning — prices have skyrocketed in the past few years, often breaking £200–400 for a verified factory seal.
 
 ![Back of case](ff7caseback.HEIC )
-⸻
 
 
+## Tips:
 
 If you’re just starting your retro PS1 collection, Final Fantasy VII is a perfect first step. Here’s how to make the journey a bit smoother:
 	•	Check the discs carefully: Genuine discs have a black bottom and a Sony hologram near the center ring. If it’s blue or purple, that’s a sign it’s a burned or reproduction copy.
@@ -49,9 +47,7 @@ And if you just want to play the game, not collect it? The PS4, Switch, and Stea
 
 ![DISKS](ff7disks.HEIC)
 
-
-⸻
-
+## Fun Facts:
 
 Here’s one for the trivia lovers: The english version of Final Fantasy VII has a handful of small translation quirks that have become cult favorites. “This guy are sick” — yes, that was an actual line in the game. Another gem: early Japanese promotional materials showed Cloud wielding a gun instead of the Buster Sword! Imagine how different gaming posters would look if that stuck.
 
@@ -59,7 +55,8 @@ Oh, and if you ever find the Final Fantasy VII International edition from Japan 
 
 ![Manual](ff7manual.HEIC)
 
-⸻
+## Closing Thoughts:
+
 
 Playing Final Fantasy VII today feels like visiting an old friend. Sure, the polygons are blocky, and yes, Cloud’s hands still look like he’s wearing Lego mittens — but none of that matters once you hear that battle theme kick in. It’s a game that reminds us what storytelling felt like before endless DLCs and patches — a self-contained odyssey that somehow still feels larger than life.
 

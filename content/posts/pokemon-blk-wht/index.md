@@ -1,14 +1,15 @@
 ---
 author: "Retrobun"
 title: "Pokémon Black & White: A Beginner-Friendly Collecting Guide"
-date: 2025-09-30T09:00:00+01:00
-draft: true
+date: 2025-10-30 T18:00:00+01:00
+draft: false
 description: "A warm, beginner-friendly look at collecting Pokémon Black & White for Nintendo DS—nostalgia hits, version differences, authenticity checks, and simple tips to start your Gen V shelf."
 tags: ["pokemon", "generation v", "nintendo ds", "retro collecting", "unova"]
 readingTime: true 
 --------------------------------
 
-## Nostalga Hook
+
+## A Nostalgia Hook:
 Did you ever angle your Nintendo DS just-so on a rainy bus ride, letting Unova’s sun streak across the top screen while that title theme swelled? Maybe you were Team Snivy from day one, or maybe you bounced between Tepig and Oshawott like you were speed-dating starters. For a lot of us, **Pokémon Black & White** wasn’t just the next step—it was the moment Pokémon felt *new* again, with animated sprites, changing seasons, and that mysterious kid named N who made us question what it meant to be a Trainer.
 
 ## Returning to Unova:
