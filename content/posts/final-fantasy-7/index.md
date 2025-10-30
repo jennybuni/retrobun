@@ -38,14 +38,14 @@ For display purposes, the black label version with its glossy manual and clean d
 
 
 If you’re just starting your retro PS1 collection, Final Fantasy VII is a perfect first step. Here’s how to make the journey a bit smoother:
-	•	Check the discs carefully: Genuine discs have a silver bottom and a Sony hologram near the center ring. If it’s blue or purple, that’s a sign it’s a burned or reproduction copy.
+	•	Check the discs carefully: Genuine discs have a black bottom and a Sony hologram near the center ring. If it’s blue or purple, that’s a sign it’s a burned or reproduction copy.
 	•	Manual matters: A true CIB copy includes a thick manual (often over 50 pages) featuring full color art and the pre-rendered character renders.
 	•	Avoid “repro” boxes: Repro (reproduction) cases have slightly blurry print quality or off-center logos. Always check the PlayStation logo embossing on the front — originals are crisp and raised.
 	•	Where to buy: Local retro shops, eBay, or conventions which are great hunting grounds. Always read the description carefully and don’t be afraid to ask sellers for spine or disc photos.
 	•	Storage tip: Those jewel cases are fragile! Keep them upright, away from heat, and ideally in protective sleeves to avoid cracks and disc rot.
 
 And if you just want to play the game, not collect it? The PS4, Switch, and Steam remasters are a fantastic way to relive it without wearing out your laser lens.
-''Personally I play the Steam version using the 7th Heaven mod manager for upscaled graphics and quality of life.'' 
+''Personally I play the Steam version using the 7th Heaven mod manager for upscaled graphics and quality of life hacks.'' 
 
 ![DISKS](ff7disks.HEIC)
 
@@ -53,15 +53,13 @@ And if you just want to play the game, not collect it? The PS4, Switch, and Stea
 ⸻
 
 
-Here’s one for the trivia lovers: the North American version of Final Fantasy VII has a handful of small translation quirks that have become cult favorites. “This guy are sick” — yes, that was an actual line in the game. Another gem: early Japanese promotional materials showed Cloud wielding a gun instead of the Buster Sword! Imagine how different gaming posters would look if that stuck.
+Here’s one for the trivia lovers: The english version of Final Fantasy VII has a handful of small translation quirks that have become cult favorites. “This guy are sick” — yes, that was an actual line in the game. Another gem: early Japanese promotional materials showed Cloud wielding a gun instead of the Buster Sword! Imagine how different gaming posters would look if that stuck.
 
 Oh, and if you ever find the Final Fantasy VII International edition from Japan (with an extra disc of bonus content and developer interviews), it’s one of the most fascinating imports you can add to your shelf. That set even includes an art-filled guidebook tucked neatly into the jewel case.
 
 ![Manual](ff7manual.HEIC)
 
 ⸻
-
-
 
 Playing Final Fantasy VII today feels like visiting an old friend. Sure, the polygons are blocky, and yes, Cloud’s hands still look like he’s wearing Lego mittens — but none of that matters once you hear that battle theme kick in. It’s a game that reminds us what storytelling felt like before endless DLCs and patches — a self-contained odyssey that somehow still feels larger than life.
 
