@@ -1,7 +1,7 @@
 ---
 author: "Retrobun"
 title: "Pokémon Black & White: A Beginner-Friendly Collecting Guide"
-date: 2025-10-30 T18:00:00+01:00
+date: 2025-10-30
 draft: false
 description: "A warm, beginner-friendly look at collecting Pokémon Black & White for Nintendo DS—nostalgia hits, version differences, authenticity checks, and simple tips to start your Gen V shelf."
 tags: ["pokemon", "generation v", "nintendo ds", "retro collecting", "unova"]
