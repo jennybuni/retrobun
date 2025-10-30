@@ -2,7 +2,7 @@
 ---
 title: "Collecting Final Fantasy VII for the PS1 — The Game That Changed Everything"
 date: 2025-10-26
-author: "Retro Game Blogger"
+author: "Retrobun"
 tags: ["Final Fantasy", "PS1", "Retro Collecting", "JRPG", "SquareSoft"]
 summary: "Let’s revisit the RPG that defined a generation — Final Fantasy VII on the original PlayStation. Here’s why this iconic adventure is a cornerstone of any retro game collection."
 cover: "ff7case.HEIC"
