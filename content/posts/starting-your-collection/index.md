@@ -8,6 +8,8 @@ author: "Retrobun"
 cover: ""
 readingTime: true 
 ---
+
+
 If you’re reading this, chances are you’ve felt it—that little tug of nostalgia when you see a Pokémon Red cartridge on Instagram, or a neatly lined shelf of NES boxes at a games shop. Maybe you’ve been itching to replay the games you grew up with, or you just love the idea of owning a piece of gaming history. Either way, welcome to the world of retro game collecting. It’s a hobby that blends childhood memories, treasure hunting, and just the right dash of chaos. Let’s talk about how to get started without overwhelming yourself.
 
 ## Step One: Pick Your Anchor Game
@@ -32,7 +34,7 @@ Pro tip: Don’t feel pressured to chase CIB or sealed games right away. Loose c
 
 ## Step Three: Decide What Kind of Collector You Want to Be
 
-Some collectors focus on just one series (Pokémon-only shelves are very real). Others try to collect entire console libraries. And then there are hybrid collectors who just pick up whatever sparks joy.
+Some collectors focus on just one series (Pokémon-only shelves are very real, I should know, I have one). Others try to collect entire console libraries. And then there are hybrid collectors who just pick up whatever sparks joy.
 
 If you’re starting small, I recommend focusing on one series or one console. Pokémon alone is a deep rabbit hole: the Game Boy era, the GBA remakes, spin-offs like Pokémon Pinball (with the built-in rumble!), and even oddities like Hey You, Pikachu! for the N64. Narrowing your focus will save you money and keep things fun.
 
