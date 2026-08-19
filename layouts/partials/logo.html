@@ -1,0 +1,8 @@
+<a class="rb-logo" href="{{ "/" | relURL }}" aria-label="{{ $.Site.Title }} home">
+  {{ if .Site.Language.Params.logo.logoImage }}
+    <img src="{{ .Site.Language.Params.logo.logoImage | relURL }}" alt="" aria-hidden="true">
+  {{ else if .Site.Params.logo.logoImage }}
+    <img src="{{ .Site.Params.logo.logoImage | relURL }}" alt="" aria-hidden="true">
+  {{ end }}
+  <span>{{ with $.Site.Params.Logo.logoText }}{{ . }}{{ else }}{{ $.Site.Title }}{{ end }}</span>
+</a>

@@ -11,6 +11,8 @@ enableGitInfo = false
 [params]
   contentTypeName = "posts"
   themeColor = "pink"        # choose: orange, blue, red, green, pink, paper
+  subtitle = "Beginner-friendly retro game collecting guides, authenticity checks, and shelf-worthy stories."
+  keywords = ["retro games", "game collecting", "pokemon", "nintendo ds", "authenticity guides", "cib"]
   showMenuItems = 3
   fullWidthTheme = true
   centerTheme = false
@@ -26,7 +28,7 @@ enableGitInfo = false
   [languages.en]
     languageName = "English"
     title = "Retrobun"
-    subtitle = "Search and spot the Real, Play the Retro"
+    subtitle = "Spot the real. Play the retro."
     owner = "Jenny"
     keywords = ["retro", "gaming", "fake", "collecting", "guides"]
     copyright = "© 2025 Jennybun"

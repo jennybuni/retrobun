@@ -1,0 +1,21 @@
+<footer class="footer rb-footer">
+  <div class="footer__inner rb-footer__inner">
+    <div>
+      <strong>{{ $.Site.Title }}</strong>
+      <span>{{ $.Site.Params.subtitle }}</span>
+    </div>
+    <nav aria-label="Footer">
+      <a href="{{ "/about/" | relURL }}">About</a>
+      <a href="{{ "/posts/" | relURL }}">Posts</a>
+      <a href="{{ "/index.xml" | relURL }}">RSS</a>
+    </nav>
+  </div>
+</footer>
+
+{{ $menu := resources.Get "js/menu.js" | js.Build }}
+{{ $cp := resources.Get "js/code.js" | js.Build }}
+{{ $bundle := slice $menu $cp | resources.Concat "bundle.js" | resources.Minify }}
+
+<script type="text/javascript" src="{{ $bundle.RelPermalink }}"></script>
+
+{{ partial "extended_footer.html" . }}

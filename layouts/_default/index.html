@@ -1,0 +1,138 @@
+{{ define "main" }}
+  {{ $posts := where .Site.RegularPages "Type" "posts" }}
+  {{ $featured := first 3 $posts }}
+
+  <section class="rb-hero">
+    <div class="rb-hero__copy">
+      <p class="rb-kicker">Retro collecting guides</p>
+      <h1>Spot the real. Play the retro.</h1>
+      {{ with .Description }}
+        <p class="rb-hero__lede">{{ . }}</p>
+      {{ else }}
+        <p class="rb-hero__lede">{{ .Site.Params.subtitle }}</p>
+      {{ end }}
+      <div class="rb-actions" aria-label="Primary sections">
+        <a class="rb-button rb-button--primary" href="/posts/">Read guides</a>
+        <a class="rb-button" href="/tags/collecting/">Collecting basics</a>
+      </div>
+    </div>
+    <div class="rb-hero__media" aria-label="Retrobun collection preview">
+      {{ with .Resources.GetMatch "logo.*" }}
+        <img src="{{ .RelPermalink }}" alt="Retrobun logo and collection mark">
+      {{ else }}
+        <img src="{{ "images/logo.png" | relURL }}" alt="Retrobun logo and collection mark">
+      {{ end }}
+    </div>
+  </section>
+
+  {{ with .Content }}
+    <section class="rb-intro">
+      {{ . }}
+    </section>
+  {{ end }}
+
+  <section class="rb-section" aria-labelledby="paths-title">
+    <div class="rb-section__heading">
+      <p class="rb-kicker">Browse by path</p>
+      <h2 id="paths-title">Start where you collect</h2>
+    </div>
+    <div class="rb-paths">
+      <a href="/tags/pokemon/">
+        <span>Pokemon</span>
+        <small>Cartridge checks, DS era favorites, and version guides.</small>
+      </a>
+      <a href="/tags/nintendo-ds/">
+        <span>Nintendo DS</span>
+        <small>CIB details, manuals, inserts, and shelf-ready pickups.</small>
+      </a>
+      <a href="/tags/collecting/">
+        <span>Collecting</span>
+        <small>Beginner terms, buying tips, and practical condition checks.</small>
+      </a>
+    </div>
+  </section>
+
+  {{ if $featured }}
+    <section class="rb-section" aria-labelledby="featured-title">
+      <div class="rb-section__heading">
+        <p class="rb-kicker">Featured guides</p>
+        <h2 id="featured-title">Useful reads for the next pickup</h2>
+      </div>
+      <div class="rb-featured">
+        {{ range $featured }}
+          {{ $post := . }}
+          <article class="rb-card">
+            <a class="rb-card__image" href="{{ .RelPermalink }}" aria-label="{{ .Title | plainify }}">
+              {{ $cover := "" }}
+              {{ with .Params.cover }}
+                {{ $cover = . }}
+              {{ end }}
+              {{ with and $cover (.Resources.GetMatch $cover) }}
+                <img src="{{ .RelPermalink }}" alt="{{ $post.Title | plainify }}">
+              {{ else }}
+                <img src="{{ "images/logo.png" | relURL }}" alt="{{ .Title | plainify }}">
+              {{ end }}
+            </a>
+            <div class="rb-card__body">
+              <div class="post-meta">
+                {{ with .Date }}<time>{{ .Format "Jan 2, 2006" }}</time>{{ end }}
+              </div>
+              <h3><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h3>
+              <p>
+                {{ with .Description }}
+                  {{ . | markdownify }}
+                {{ else }}
+                  {{ .Summary | plainify | truncate 150 }}
+                {{ end }}
+              </p>
+              {{ with .Params.tags }}
+                <div class="rb-tags" aria-label="Post tags">
+                  {{ range first 3 . }}
+                    <span>{{ . }}</span>
+                  {{ end }}
+                </div>
+              {{ end }}
+            </div>
+          </article>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+
+  <section class="rb-section" aria-labelledby="latest-title">
+    <div class="rb-section__heading">
+      <p class="rb-kicker">Latest posts</p>
+      <h2 id="latest-title">Fresh from the shelf</h2>
+    </div>
+    <div class="posts rb-latest">
+      {{ $paginator := .Paginate $posts }}
+      {{ range $paginator.Pages }}
+        <article class="post on-list rb-list-post">
+          <h2 class="post-title">
+            <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+          </h2>
+          <div class="post-meta">
+            {{ with .Date }}<time>{{ .Format "Jan 2, 2006" }}</time>{{ end }}
+            {{ with .Params.Author }}<span class="post-author">{{ . }}</span>{{ end }}
+          </div>
+          {{ with .Params.tags }}
+            <span class="post-tags">
+              {{ range . }}
+                #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">{{ . }}</a>&nbsp;
+              {{ end }}
+            </span>
+          {{ end }}
+          <div class="post-content">
+            {{ if .Description }}
+              <p>{{ .Description | markdownify }}</p>
+            {{ else }}
+              {{ .Summary }}
+            {{ end }}
+          </div>
+          <a class="read-more button inline" href="{{ .RelPermalink }}">[{{ $.Site.Params.ReadMore }}]</a>
+        </article>
+      {{ end }}
+      {{ partial "pagination.html" . }}
+    </div>
+  </section>
+{{ end }}
