@@ -16,7 +16,7 @@ There is something satisfying about clicking a cartridge into a Nintendo DS. The
 
 ## What Is the DSpico Cartridge?
 
-The project appears to be properly styled as **DSpico**, not picoDS. It is an open-source Nintendo DS and DSi flashcart project by the LNH Team, a group focused on documenting and preserving Nintendo DS-era hardware and software. The [official project page](https://www.lnh-team.org/) describes DSpico as an open-source DS(i) flashcart, with open PCB files, shell files, stickers, box art, firmware, and launcher software available for study, modification, or self-build use.
+It is an open-source Nintendo DS and DSi flashcart project by the LNH Team, a group focused on documenting and preserving Nintendo DS-era hardware and software. The [official project page](https://www.lnh-team.org/) describes DSpico as an open-source DS(i) flashcart, with open PCB files, shell files, stickers, box art, firmware, and launcher software available for study, modification, or self-build use.
 
 Its main purpose is not to behave like a new retail Nintendo DS release. It is a modern, RP2040-based flashcart platform for running compatible Nintendo DS and DSi software from a microSD card, experimenting with DS cartridge-bus hardware, and supporting homebrew and preservation workflows. The [firmware repository](https://github.com/LNH-team/dspico-firmware) says DSpico emulates a DS cartridge, exposes SD-card access to the DS side, exposes USB-related commands, can emulate an R4 for software such as Wood R4, and supports separate ROMs for DS and DSi/3DS systems.
 
@@ -24,17 +24,17 @@ Its main purpose is not to behave like a new retail Nintendo DS release. It is a
 
 Because DSpico is an open-source project rather than a single official boxed retail product, the contents depend on whether you build one yourself or buy an assembled third-party unit.
 
-The cartridge being used for this review was purchased from Amazon as an assembled, ready-made unit. Because DSpico is an open-source design, an Amazon listing should be treated as a third-party build unless the seller states and documents a direct connection with the LNH Team. The exact seller, purchase price, packaging, and included accessories can be added here once they have been confirmed from the order details and photographed.
+The cartridge being used for this review was purchased from Amazon as an assembled, ready-made unit. Because DSpico is an open-source design, an Amazon listing should be treated as a third-party build unless the seller states and documents a direct connection with the LNH Team. [Amazon Link](https://amzn.eu/d/0cUcGxTn)
 
 The official hardware repository provides the design files for the PCB, shell, cartridge sticker, and box art. The documented hardware feature set includes an RP2040 microcontroller, 16 Mbit / 2 MB flash memory, a microSD slot, a Micro-USB port, a development port, two LEDs, and dual power support so the board can be powered from USB and the DS at the same time through an ORing circuit.
 
 For a self-built unit, the "package" is effectively whatever the builder manufactures or sources: the PCB, components, shell, optional sticker, optional printed box art, and a separately supplied microSD card. The official guide also assumes access to a computer for compiling or preparing firmware and software.
 
-For assembled units sold by third parties, listings may include only the cartridge. At least one current retail listing checked on 19 September 2026 lists the DSpico flashcard only and says a microSD card is not included. Any review should therefore photograph the exact purchased unit, because shell color, packaging, included storage, and cable contents may vary by seller.
+The unit I purchased was ust for the cartride and did not include an SD card. The unit i purchased i did have to update to be able to work on my DSi, I also had to supply the base rom to be able to compile the SD card firmware.
 
-Image note: the official hardware repository includes photographs and artwork for the PCB, shell, stickers, and box art, but this draft should use original photos of the review sample before publication.
+For assembled units sold by third parties, a lot of listings may include only the cartridge. At least one current retail listing checked on 19 September 2026 lists the DSpico flashcard only and says a microSD card is not included. 
 
-Collectors will want to know how the cartridge feels in hand, whether the shell and label are well made, and how neatly it fits into a DS cartridge slot. Packaging may also matter to anyone planning to display it rather than keep it in a loose-cartridge case.
+The inintal look of the cartridge is how you would expect a DS cartridge appart from the one i purchase was in a clear shell. having tested the unit in both a DS, DS light, DSi and a 3DS. it does indeed work well on all the hardware. 
 
 ## Setup and Compatibility
 
